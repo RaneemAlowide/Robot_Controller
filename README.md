@@ -7,7 +7,7 @@ in the files you will find:
   - two php files (connector , lastMovement)
   - javaScript file
   - folder that contains the arrow and stop image
-  - image of the (robot Controller design , screenShot of data Saved in the database , and the last Movement saved in thr database).
+  - images of the (robot Controller design , screenshot of data Saved in the database , and the last Movement saved in thr database).
 
 
 
