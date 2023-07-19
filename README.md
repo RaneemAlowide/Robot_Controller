@@ -1,7 +1,7 @@
 # Robot_Controller
 this project is a simple robot controller:
 
-in the files you will find:
+in the " Robotic_controller " file you will find:
   - html file
   - css file
   - two php files (connector , lastMovement)
