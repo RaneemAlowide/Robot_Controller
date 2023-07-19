@@ -1,0 +1,44 @@
+
+body {
+    font-family: system-ui;
+    background: #D6E8DB;
+    text-align: flex;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.button-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    background-color: #ccc;
+    margin: 30px;
+    border-style:solid;
+    border-color: #A5B3A9;
+    padding: 10px;
+  }
+  
+  .button-container button {
+    padding: 20px 25px;
+    width: 8rem;
+    height: 8rem;
+    background: linear-gradient(#F4F2DE, #F4E0B9);
+    border-radius: 50px;
+    border-color: #EDEDED;
+    margin: 3px;
+  }
+  
+  button:active  {
+    background: #a0b7d34a;
+    transition: all 0.6s ease-out;
+  }
+
+
+
+  
