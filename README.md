@@ -1,5 +1,5 @@
 # Robot_Controller
-this project is a simple robot controller:
+This project is a simple robot controller:
 
 in the " Robotic_controller " file you will find:
   - html file
