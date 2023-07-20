@@ -1,4 +1,4 @@
-# Robot_Controller
+# Robotic_Controller
 This project is a simple robot controller:
 
 in the " Robotic_controller " file you will find:
